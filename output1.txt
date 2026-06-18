@@ -1,0 +1,18 @@
+CT ID AT WT XD TYPE INT LN
+
+Total Vehicles: 25
+Total EV: 5 (including 3 promotions)
+Total PT: 3 (3 promoted)
+Total NC: 9 (2 canceled)
+Total FV: 5
+Average WT (all): 2
+Average WT (EV): 1
+Average WT (PT): 3
+Average WT (NC): 5
+Average WT (FV): 4
+Average XD: 4
+Promoted vehicles: 3
+Canceled vehicles: 2
+% Auto-Promoted PT: 50%
+Signal Switches: 4
+% Vehicles Canceled: 8%
